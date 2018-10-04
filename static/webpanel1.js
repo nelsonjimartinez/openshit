@@ -1,0 +1,3 @@
+/**@preserve  GeneXus Java 10_3_13-112972 on October 3, 2018 23:44:21.37
+*/
+gx.evt.autoSkip=!1;gx.define("webpanel1",!1,function(){this.ServerClass="webpanel1";this.PackageName="com.openshift";this.setObjectType("web");this.hasEnterEvent=!1;this.skipOnEnter=!1;this.autoRefresh=!0;this.fullAjax=!0;this.supportAjaxEvents=!0;this.ajaxSecurityToken=!0;this.SetStandaloneVars=function(){};this.e12072_client=function(){this.executeServerEvent("ENTER",!0,null,!1,!1)};this.e13072_client=function(){this.executeServerEvent("CANCEL",!0,null,!1,!1)};this.GXValidFnc=[];var n=this.GXValidFnc;this.GXLastCtrlId=0;this.Events={e12072_client:["ENTER",!0],e13072_client:["CANCEL",!0]};this.EvtParms.REFRESH=[[],[]];this.InitStandaloneVars()});gx.createParentObj(webpanel1)

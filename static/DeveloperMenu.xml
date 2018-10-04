@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="prgs.xsl"?>
+<Objects>
+   <Charset>UTF-8</Charset>
+   <Path>file:///C:/Program Files (x86)/Artech/GeneXus/GeneXusXEv3/</Path>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WebPanel1</ObjName>
+      <ObjDesc>Web Panel1</ObjDesc>
+      <ObjLink>http://localhost:8080/OpenShiftJavaEnvironment/servlet/com.openshift.webpanel1</ObjLink>
+   </Object>
+</Objects>
